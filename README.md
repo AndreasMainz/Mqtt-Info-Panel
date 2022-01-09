@@ -7,4 +7,7 @@ LED matrix can be found here: https://www.ebay.de/itm/293309695325?hash=item444a
 or search for "ws2812b matrix" at ebay
 
 Depending on the message contens different message color can be selected.
-Picture of hardware will come soon, stay tuned ;-)
+
+Connections: D6 connected to Din of first Led Panel. Dout of first panel goes to Din of second Matrix and so on.
+
+Powersupply is connected separately to each matrix to avoid current overload of first matrix. (check the pictures ;-))
